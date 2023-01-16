@@ -1,0 +1,5 @@
+baseClass\BaseClass.class
+pages\LoginPage.class
+utilities\DriverSetup.class
+pages\HomePage.class
+pages\SignupPage.class
