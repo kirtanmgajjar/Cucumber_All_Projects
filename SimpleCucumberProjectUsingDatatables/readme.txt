@@ -20,4 +20,3 @@ testng.xml file is for running the test cases.
 By:
 
 Name - Kirtan Gajjar
-AssociateId - 2234444
